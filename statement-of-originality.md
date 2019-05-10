@@ -34,11 +34,11 @@ Add as many "url+licence+comment" entries as necessary
 
 ## Sign *your* names and uids here. There should be one entry per team member
 
-name1:  
-uid1:
+name1:  Sukai Huang
+uid1: u6492211
 
-name2:  
-uid2:
+name2:  Jiayue Yang
+uid2: u6399075
 
-name3:  
-uid3:
+name3:  Chuiheng Wu
+uid3: u6560914
