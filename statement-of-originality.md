@@ -27,8 +27,8 @@ Add as many "url+licence+comment" entries as necessary
 Add as many "url+licence+comment" entries as necessary
 
 ### Assets:
-  - comment: N/A
-    url: N/A
+  - comment: The idea of 'Elbow Method' to determine the size of K in K-mean algorithm is from this website, However, this Elbow Method can be found in many places on the Internet.
+    url: https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/#elbow-method
     licence: N/A
 
 
