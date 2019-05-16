@@ -19,9 +19,9 @@ Add as many "name+comment" entries as necessary
 Add as many "url+licence+comment" entries as necessary
 
 ### Code:
-  - comment: N/A
-    url: N/A
-    licence: N/A
+  - comment: learn how to get ideal k value form the lecture demo in SectionC part2 
+    url: https://gitlab.cecs.anu.edu.au/comp2420/2019/comp2420-2019-lecturescripts/blob/master/week-5/Lecture-10/Lecture10_Demo.ipynb
+    licence: No commercial usage
 
 
 Add as many "url+licence+comment" entries as necessary
@@ -30,6 +30,10 @@ Add as many "url+licence+comment" entries as necessary
   - comment: The idea of 'Elbow Method' to determine the size of K in K-mean algorithm is from this website, However, this Elbow Method can be found in many places on the Internet.
     url: https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/#elbow-method
     licence: N/A
+    
+ -  comment: learn the reason that the clustering works as pre-processing in helping classification
+    url: https://www.researchgate.net/post/Why_do_we_sometimes_use_clustering_algorithm_for_classification
+    license: No commercial usage
 
 
 ## Sign *your* names and uids here. There should be one entry per team member
