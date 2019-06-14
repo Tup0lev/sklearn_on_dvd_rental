@@ -1,0 +1,100 @@
+                     ==============================
+                       COMP2420, Semester 1, 2019
+                         Assignment 2 Mark Sheet
+                     ==============================
+
+=======================================================
+  Uni Id  | Lab Group  | Tutor                  
+=======================================================
+ u6492211   tue11-13b    Alexei Khorev
+ u6560914   thu15-17     Xu Wang
+ u6399075   thu15-17     Xu Wang
+=======================================================
+
+Group Number : A2Grp123
+
+Gitlab Repo : gitlab.cecs.anu.edu.au:u6492211/comp2420-2019-ass2
+
+Markers
+-------
+
+Database Management: Cody Christopher
+Data Acquisition: Alexei Khorev
+Machine Learning:
+  Short answers and k-means: Hanif Rasyidi
+  Classification: Xu Wang
+Decision Trees: Harshit Trivedi
+
+Marks
+=====
+
+========================================
+ Database Management 
+   Q1                         :    3/3
+   Q2                         :    3/3
+   Q3                         :    4/4
+   Q4                         :    2/5
+
+ Data Acquisition             :    17/20
+
+ Machine Learning
+   Short Answers
+   Q1.1.1                     :    4/4
+   Q1.1.2                     :    4/4
+
+   K-Means Clustering
+   Q1.2.1                     :    15/15
+   Q1.2.2                     :    2/2
+
+   Classification
+   Q2.1                       :    24/25
+   Q2.2                       :    4.5/5
+
+ Decision Trees
+   Q1                         :    3/3
+   Q2                         :    3/3
+   Q3                         :    3.5/4
+
+ Penalty (if any)             :    /100 
+========================================
+   Total (max 100)            :  92.0
+========================================
+
+
+Feedback
+========
+
+Database Management
+-------------------
+q4 doesnt consider store_id correctly. 
+will find anyone who has borrowed 
+from anywhere.
+
+
+
+Data Acquisition
+----------------
+
+plain selective queries, substantial pandas data adjustment
+
+Machine Learning
+----------------
+Short Answers and K-Means
+.........................
+
+
+
+
+Classification
+..............
+Model: Answer can be improved by investigating different classification models.(17)
+Justification: (7)
+Short Answer: Answers can be improved by investigating the cons as well.(4.5)
+
+
+
+Decision Trees
+--------------
+1. Correct.
+2. Correct. Good reasoning!
+3. Good work with the well-documented workflow. The answer however, lacks precision to 3-4 decimal places.
